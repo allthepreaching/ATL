@@ -1,0 +1,29 @@
+[28-Apr-2022 13:58:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 9
+[28-Apr-2022 13:58:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 9
+[28-Apr-2022 13:58:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 9
+[29-Apr-2022 19:53:58 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 9
+[29-Apr-2022 23:08:33 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 9
+[30-Apr-2022 04:38:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 9
+[01-May-2022 02:28:24 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 9
+[01-May-2022 21:04:44 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 9
+[04-May-2022 22:09:39 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alltdjli/biblelaw.allthepreaching.com/includes/dbh.inc.php on line 10
+[04-May-2022 23:24:32 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/alltdjli/biblelaw.allthepreaching.com/moral.php:12
+Stack trace:
+#0 /home/alltdjli/biblelaw.allthepreaching.com/moral.php(12): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/alltdjli/biblelaw.allthepreaching.com/moral.php on line 12
+[04-May-2022 23:24:39 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/alltdjli/biblelaw.allthepreaching.com/moral.php:12
+Stack trace:
+#0 /home/alltdjli/biblelaw.allthepreaching.com/moral.php(12): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/alltdjli/biblelaw.allthepreaching.com/moral.php on line 12
+[04-May-2022 23:24:41 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/alltdjli/biblelaw.allthepreaching.com/civil.php:12
+Stack trace:
+#0 /home/alltdjli/biblelaw.allthepreaching.com/civil.php(12): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/alltdjli/biblelaw.allthepreaching.com/civil.php on line 12
+[04-May-2022 23:24:42 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/alltdjli/biblelaw.allthepreaching.com/ceremonial.php:12
+Stack trace:
+#0 /home/alltdjli/biblelaw.allthepreaching.com/ceremonial.php(12): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/alltdjli/biblelaw.allthepreaching.com/ceremonial.php on line 12
