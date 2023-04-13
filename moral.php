@@ -38,10 +38,10 @@
   <ol>
     <li>
       <span class="main-li">Get Baptized</span>
-      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermon_Clips_Pastor_Anderson/The_Doctrine_Of_Baptism_Is_Foundational.mp4">
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Baptism.mp4">
         <div class="tooltip">
           <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
-          <span class="tooltiptext">clip: the doctrine of baptism is foundational</span>
+          <span class="tooltiptext">sermon: baptism</span>
         </div>
       </a>
       <ul class="styled">
@@ -1167,6 +1167,12 @@
         </li>
         <li>
           Let every man have his own wife, and let every woman have her own husband
+          <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/A_Marriage_Acceptable_To_God.mp4">
+            <div class="tooltip">
+              <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+              <span class="tooltiptext">sermon: a marriage acceptable to god</span>
+            </div>
+          </a>
           <ul class="sub">
             <li>
               <span class="modal-verse" id="Genesis 2:18">Genesis 2:18</span> ,
@@ -1235,6 +1241,12 @@
         </li>
         <li>
           Be fruitful and multiply and replenish the earth (birth control is a sin)
+          <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Be_Fruitful_And_Multiply.mp4">
+            <div class="tooltip">
+              <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+              <span class="tooltiptext">sermon: be fruitful and multiply</span>
+            </div>
+          </a>
           <ul class="sub">
             <li>
               <span class="modal-verse" id="Genesis 1:28">Genesis 1:28</span> ,
@@ -1667,6 +1679,12 @@
   <ol>
     <li>
       <span class="main-li">Don’t forsake your friends</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Being_A_Friend.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: being a friend</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Proverbs 18:24">Proverbs 18:24</span> ,
@@ -1777,6 +1795,12 @@
     </li>
     <li>
       <span class="main-li">Women should be soft spoken</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/A_Biblical_View_Of_Womanhood.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: a biblical view of womanhood</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Proverbs 7:11">Proverbs 7:11</span> ,
@@ -1881,6 +1905,12 @@
   <ol>
     <li>
       <span class="main-li">In everything give thanks</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Being_Thankful.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: being thankful</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="1 Chronicles 16:8">1 Chronicles 16:8</span> ,
@@ -2021,6 +2051,12 @@
     </li>
     <li>
       Honor, reverence, esteem highly
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Being_Respectful.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: being respectful</span>
+        </div>
+      </a>
       <ul class="styled">
 
         <li>
@@ -3411,6 +3447,12 @@
     </li>
     <li>
       <span class="main-li">Make not my Father’s house a house of merchandise</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Buying_And_Selling_At_Church.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: buying and selling at church</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Matthew 21:12-13">Matthew 21:12-13</span> ,
@@ -3613,6 +3655,12 @@
     </li>
     <li>
       Ordain elders in every city
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/A_Church_In_Every_City.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: a church in every city</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Titus 1:5">Titus 1:5</span>
@@ -4411,6 +4459,12 @@
   <ol>
     <li>
       <span class="main-li">Commanded to pray (ask, seek and knock) for everything we care about</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/6_Types_Of_Prayer.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: 6 types of prayer</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="2 Chronicles 16:8">2 Chronicles 16:8</span> ,
@@ -4980,6 +5034,12 @@
     </li>
     <li>
       <span class="main-li">Sodomy</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/AIDS_The_Judgement_Of_God.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: aids: the judgment of god</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Leviticus 18:22">Leviticus 18:22</span> ,
@@ -5239,6 +5299,12 @@
       <ul class="styled">
         <li>
           Go ye into all the world, and preach the gospel to every creature
+          <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/A_Strategy_To_Evangelize_The_Entire_World.mp4">
+            <div class="tooltip">
+              <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+              <span class="tooltiptext">sermon: a strategy to evangelize the entire world</span>
+            </div>
+          </a>
           <ul class="sub">
             <li>
               <span class="modal-verse" id="Psalm 71:15-16">Psalm 71:15-16</span> ,
@@ -5733,6 +5799,12 @@
             </li>
             <li>
               Thou shalt not bear false witness
+              <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Bearing_False_Witness.mp4">
+                <div class="tooltip">
+                  <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+                  <span class="tooltiptext">sermon: bearing false witness</span>
+                </div>
+              </a>
               <ul class="styled">
                 <li>
                   <span class="modal-verse" id="Exodus 20:16">Exodus 20:16</span> ,
@@ -5850,6 +5922,12 @@
   <ol>
     <li>
       <span class="main-li">Be Strong</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Be_Strong_&_Endure_Hardness.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: be strong and endure hardness</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Deuteronomy 31:6-7">Deuteronomy 31:6-7</span> ,
@@ -5895,6 +5973,12 @@
   <ol>
     <li>
       <span class="main-li">Meditate (to reflect upon: ponder) on God’s law (Word) day and night (with the purpose of doing what God says)</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Bible_Memorization.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: bible memorization</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Deuteronomy 6:6">Deuteronomy 6:6</span> ,
@@ -6298,6 +6382,12 @@
     </li>
     <li>
       <span class="main-li">Redeem the time (time wasting)</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Becoming_Vain.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: becoming vain</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Proverbs 12:11">Proverbs 12:11</span> ,
@@ -6645,6 +6735,12 @@
     </li>
     <li>
       <span class="main-li">Follow Jesus</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Be_A_Follower.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: be a follower</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Matthew 4:19">Matthew 4:19</span> ,
@@ -6680,6 +6776,12 @@
     </li>
     <li>
       <span class="main-li">Abide (be Steadfast)</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Being_Unmoveable.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: being unmoveable</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="John 15:4">John 15:4</span> ,
@@ -6737,6 +6839,12 @@
     </li>
     <li>
       <span class="main-li">Be filled with the Spirit; Walk in the Spirit; Quench not the Spirit</span>
+      <a target="_blank" href="https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Anderson/Am_I_Filled_With_The_Spirit.mp4">
+        <div class="tooltip">
+          <ion-icon class="play-button" name="arrow-dropright-circle"></ion-icon>
+          <span class="tooltiptext">sermon: am i filled with the spirit</span>
+        </div>
+      </a>
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Galatians 5:16">Galatians 5:16</span> ,
