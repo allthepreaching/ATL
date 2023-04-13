@@ -6,11 +6,12 @@ bin-release/
 
 # Other files and folders
 .settings/
-images/
+/images
 **/thumbs/
 /video
 dbh.atp.php
 dbh.wamp.php
+dbh.inc.php
 
 # Executables
 *.swf
