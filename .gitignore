@@ -19,6 +19,7 @@ dbh-wamp.inc.php
 dbh-atp.inc.php
 dbh-gd.inc.php
 dbh-gd.php
+dbh.inc.php
 
 # Executables
 *.swf
