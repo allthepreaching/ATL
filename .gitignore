@@ -10,8 +10,15 @@ bin-release/
 **/thumbs/
 /video
 dbh.atp.php
+dbh.gd.php
 dbh.wamp.php
-dbh.inc.php
+dbh-atp.php
+dbh-wamp.php
+dbh-inc.php
+dbh-wamp.inc.php
+dbh-atp.inc.php
+dbh-gd.inc.php
+dbh-gd.php
 
 # Executables
 *.swf
@@ -23,6 +30,10 @@ dbh.inc.php
 *.zip
 *.rar
 *.iso
+*.jpg
+*.bmp
+*.png
+*.psd
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
